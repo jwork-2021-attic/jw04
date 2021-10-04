@@ -29,8 +29,4 @@ public class World {
         this.tiles[x][y].setThing(t);
     }
 
-    public static void main(String[] args) {
-        World w = new World();
-        w.put(Calabash.C1, 10, 10);
-    }
 }

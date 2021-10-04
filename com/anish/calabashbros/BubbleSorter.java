@@ -38,5 +38,4 @@ public class BubbleSorter<T extends Comparable<T>> implements Sorter<T> {
         return this.plan;
     }
 
-
 }
