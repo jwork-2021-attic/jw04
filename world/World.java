@@ -27,9 +27,14 @@ import java.util.List;
  */
 public class World {
 
+    public static final int WIDTH = 80;
+    public static final int HEIGHT = 24;
+
+
     private Tile[][] tiles;
     private int width;
     private int height;
+    
     private List<Creature> creatures;
 
     public static final int TILE_TYPES = 2;
