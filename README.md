@@ -5,7 +5,7 @@
 
 ## 技术背景
 
-`gourds`分支的图形化绘制部分采用了github上开源的AsciiPanel(https://github.com/trystan/AsciiPanel)。因对其进行了一点点修改，故直接将其源代码放在`asciiPanel`目录下（此部分代码可不阅读）。AsciiPanel模拟了早期计算机终端的现实方式，因其所具有的复古风，还有基于它所实现的Roguelike类型RPG游戏，如`Roguelike`分支上项目所示。
+`gourds`分支的图形化绘制部分采用了github上开源的[AsciiPanel](https://github.com/trystan/AsciiPanel)。因对其进行了一点点修改，故直接将其源代码放在`asciiPanel`目录下（此部分代码可不阅读）。AsciiPanel模拟了早期计算机终端的现实方式，因其所具有的复古风，还有基于它所实现的Roguelike类型RPG游戏，如`Roguelike`分支上项目所示。
 
 ## 任务一
 
